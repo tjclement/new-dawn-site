@@ -132,3 +132,12 @@ footer {
 footer p {
     font-size: 12px;
 }
+
+.instr {
+    width: 0px;
+    height: 0px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0;
+    opacity: 0;
+}
